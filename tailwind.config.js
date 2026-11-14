@@ -20,7 +20,7 @@ module.exports = {
       },
       boxShadow: {
         card: "0px 35px 120px -15px #211e35",
-        card2: '0px 20px 40px -20px darkturquoise',
+        card2: '0px 20px 40px -1px darkturquoise',
         card3: '0px 35px 120px 15px #172664',
         card3b: '0px 35px 120px -15px #172664',
         card4: '1px 1px 15px .1px #074274',
